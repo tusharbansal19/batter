@@ -59,7 +59,7 @@ better/
 
 ### **Frontend Framework**
 - **React 18.2.0** - Stable React with concurrent features and improved performance
-- **Next.js 15.5.2** - Full-stack React framework with App Router for optimal SEO and performance
+- **Next.js 14.2.5** - Full-stack React framework with App Router for optimal SEO and performance
 
 ### **Type Safety & Development**
 - **TypeScript 5.x** - Static type checking for enhanced code quality and developer experience
